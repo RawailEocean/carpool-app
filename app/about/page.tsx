@@ -38,22 +38,22 @@ export default function AboutPage() {
 
   const milestones = [
     {
-      year: '2024',
+      year: '2025',
       title: 'Founded',
       description: 'Carpool was born from a simple idea: what if we could make travel more social and sustainable?'
     },
     {
-      year: '2024',
+      year: '2025',
       title: 'First Users',
       description: 'Our first community of travelers started sharing rides and building connections.'
     },
     {
-      year: '2024',
+      year: '2025',
       title: 'Growing Community',
       description: 'Thousands of users now trust Carpool for their daily journeys.'
     },
     {
-      year: '2024',
+      year: '2025',
       title: 'Future Vision',
       description: 'Expanding globally to connect travelers worldwide.'
     }
@@ -66,17 +66,17 @@ export default function AboutPage() {
       description: 'Passionate about building communities and sustainable transportation solutions.'
     },
     {
-      name: 'Sarah Johnson',
+      name: 'Rawail Ahmed',
       role: 'Head of Product',
       description: 'Focused on creating intuitive and user-friendly experiences.'
     },
     {
-      name: 'Mike Chen',
+      name: 'Rawail Ahmed',
       role: 'Head of Engineering',
       description: 'Building robust and scalable technology solutions.'
     },
     {
-      name: 'Emma Davis',
+      name: 'Rawail Ahmed',
       role: 'Head of Safety',
       description: 'Ensuring every journey is secure and comfortable.'
     }
